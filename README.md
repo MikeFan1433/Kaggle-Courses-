@@ -3,8 +3,8 @@ This repository stores the exercise notebooks of Kaggle's Data Science Courses. 
 
 Courses List: (Keep Updating)
 
-Pandas
-Data Cleaning
+Pandas\n
+Data Cleaning\n
 Data Visualization 
 
 Courses Link: https://www.kaggle.com/learn/overview
